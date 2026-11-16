@@ -1,8 +1,8 @@
-### Eai! Sou o Pedro Paffaro!
+### Eae! Sou o Pedro Paffaro!
 
-- 🌱 Estudando Swift e TypeScript
-- 📫 Contate-me no email: pedroafpaffaro@gmail.com 
-- ⚡ Esporte é minha segunda paixão
+- 💻 Estudando Swift e TypeScript
+- ✉️ Contate-me no email: pedroafpaffaro@gmail.com 
+- 🏐 Esporte é minha segunda paixão
 
 <div align="center">
   <a href="https://github.com/pedropaffaro">
